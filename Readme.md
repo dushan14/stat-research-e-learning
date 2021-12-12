@@ -1,0 +1,3 @@
+Sri Lanka has faced a huge shift of day to day task changes due to the Covid19 pandemic. Education system of the country is affected highly due to this. From preschool to universities education system had to move to e-learning. Most of the time they had to use e-learning for all events of the studies including exams and projects. As the country's education system all most all the time happened on-premises, this sudden change made a lot of issues and it became a big topic in the country. Coverage of internet providers and devices to connect to internet were huge problems. This study was done to analyze the satisfaction of e-learning among local university students.
+
+This provides the dataset collected through a google form and the paper of the research.
